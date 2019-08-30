@@ -1,3 +1,4 @@
 # first-assignment
 The first assignment for APCSP
-![Image of Statistics](https://csedweek.org/resource_kit/blurbs)
+![GitHub Logo](/images/logo.png)
+![Image of Statistic](https://csedweek.org/images/cs-stats/Slide5_CS_Education.png)
